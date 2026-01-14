@@ -1,13 +1,13 @@
 <h1 align="center">Hi there 👋, I'm Fardan Nozami Ajitama</h1>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/fardannozami">
+  <a href="https://www.linkedin.com/in/fardannozami" target="blank">
     <img alt="LinkedIn Badge" src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white" />
   </a>
-  <a href="https://ajitama.dev/">
+  <a href="https://ajitama.dev/" target="blank">
     <img alt="Website Badge" src="https://img.shields.io/badge/-Website-0A0A0A?style=flat-square&logo=firefox&logoColor=white" />
   </a>
-  <a href="https://www.youtube.com/@programmertelo">
+  <a href="https://www.youtube.com/@programmertelo" target="blank">
     <img alt="YouTube Badge" src="https://img.shields.io/badge/-YouTube-FF0000?style=flat-square&logo=YouTube&logoColor=white" />
   </a>
 </p>
