@@ -37,9 +37,7 @@
 
 ## 🚀 About Me
 
-I'm a passionate backend developer with 3+ years of experience building scalable and maintainable systems.  
-I enjoy solving complex problems with clean architecture, and currently diving deeper into distributed systems and DevOps practices.  
-My goal is to build impactful products and share knowledge with the community.
+Backend Engineer with 4+ years of experience specializing in Golang, with hands-on expertise in building scalable REST APIs, optimizing PostgreSQL/MySQL databases, and maintaining production systems serving 15,000+ active users. Experienced in concurrency, cloud deployment on AWS EC2, CI/CD automation, and collaborating with cross-functional remote teams to deliver reliable, high-performance backend solutions.
 
 ---
 
