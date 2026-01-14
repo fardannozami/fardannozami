@@ -43,26 +43,6 @@ My goal is to build impactful products and share knowledge with the community.
 
 ---
 
-## 📈 GitHub Stats (Dark Mode)
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=fardannozami&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fardannozami&layout=compact&theme=radical" alt="Top Languages" />
-</div>
-
----
-
-## 📈 GitHub Stats (Light Mode)
-
-<details>
-  <summary>Click to toggle</summary>
-  <div align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=fardannozami&show_icons=true&theme=default" alt="GitHub Stats Light" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fardannozami&layout=compact&theme=default" alt="Top Languages Light" />
-  </div>
-</details>
-
----
 
 ## 📫 Let's Connect!
 
